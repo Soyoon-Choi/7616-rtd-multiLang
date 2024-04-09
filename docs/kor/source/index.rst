@@ -3,11 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-7.1 국문 매뉴얼 프로토타입
+7.3 국문 매뉴얼 프로토타입
 ==============================================================
 
 어서오세요!
-7.1 국문 매뉴얼 프로토타입 페이지입니다.
+7.3 국문 매뉴얼 프로토타입 페이지입니다.
 
 고객지원센터: http://support.altibase.com/kr/
 
