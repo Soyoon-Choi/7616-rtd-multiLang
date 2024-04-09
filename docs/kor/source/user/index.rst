@@ -3,7 +3,7 @@ User's Guide
 
 Start Altibase
 
-:doc:`Getting Started Guide </user/getting-started-guide/Getting Started Guide>`
+:doc:`Getting Started Guide </user/Getting Started Guide/Getting-Started-Guide>`
 
 :doc:`Administrator's Manual </user/administrators-manual/0.-Administrators-Manual>`
 

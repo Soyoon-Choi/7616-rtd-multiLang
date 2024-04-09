@@ -1,10 +1,12 @@
-Getting Started Guide
-===============================================
-Altibase 7.3
+Application Program Interface User’s Manual
+==========================
 
-Altibase® Administration
+#### Altibase 7.3
 
-Altibase Administration Getting Started Guide
+Altibase Application Development
+
+<pre>
+Altibase Application Development Application Program Interface User’s Manual
 Release 7.3
 Copyright ⓒ 2001~2023 Altibase Corp. All Rights Reserved.<br>
 This manual contains proprietary information of Altibase® Corporation; it is provided under a license agreement containing restrictions on use and disclosure and is also protected by copyright patent and other intellectual property law. Reverse engineering of the
@@ -15,17 +17,14 @@ All trademarks, registered or otherwise, are the property of their respective ow
 306, Digital-ro, Guro-gu, Seoul 08378, Korea
 Telephone : +82-2-2082-1000 
 Fax       : +82-2-2082-1099
-Customer Service Portal : http://support.altibase.com/en/<br/>
-Homepage                : http://www.altibase.com
-
+Customer Service Portal : <a href='http://support.altibase.com/en/'>http://support.altibase.com/en/</a>
+Homepage                : <a href='http://www.altibase.com'>http://www.altibase.com</a></pre>
 <br>
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :hidden:
-   :caption: Getting Started Guide
+   :caption: API User's Manual
    :glob:
    
    *
-
-

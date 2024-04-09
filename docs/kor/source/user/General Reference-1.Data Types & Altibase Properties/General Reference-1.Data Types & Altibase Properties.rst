@@ -1,10 +1,106 @@
-# Getting Started Guide
+General Reference-1.Data Types & Altibase Properties
+================
+
+.. toctree::
+    :maxdepth: 4
+    :caption: General Reference 1
+    :glob:
+
+    *
 
 #### Altibase 7.1
 
 Altibase® Administration
 
-Altibase Administration Getting Started Guide
+<br><br><br><br><br><br><!-- PDF 변환을 위한 여백입니다. --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- PDF 변환을 위한 여백입니다. --> 
+
+<div align="left">
+    <img src="media/common/e5cfb3761673686d093a3b00c062fe7a.png">
+</div>
+<br><br><!-- PDF 변환을 위한 여백입니다. --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- PDF 변환을 위한 여백입니다. --> 
+
+<pre>
+Altibase Administration General Reference
 Release 7.1
 Copyright ⓒ 2001~2023 Altibase Corp. All Rights Reserved.<br>
 본 문서의 저작권은 ㈜알티베이스에 있습니다. 이 문서에 대하여 당사의 동의없이 무단으로 복제 또는 전용할 수 없습니다.<br>
@@ -15,10 +111,4 @@ Copyright ⓒ 2001~2023 Altibase Corp. All Rights Reserved.<br>
 고객서비스포털 : <a href='http://support.altibase.com'>http://support.altibase.com</a>
 홈페이지      : <a href='http://www.altibase.com/'>http://www.altibase.com</a></pre>
 
-
-.. toctree::
-   :maxdepth: 4
-   :caption: Getting Started Guide
-   :glob:
-
-   *
+<br>

@@ -1,7 +1,7 @@
 General Reference-1.Data Types & Altibase Properties
 ============================================
 
-#### Altibase 7.1
+#### Altibase 7.3
 
 Altibase® Administration
 
@@ -12,7 +12,7 @@ Altibase® Administration
 
 <pre>
 Altibase Administration General Reference
-Release 7.1
+Release 7.3
 Copyright ⓒ 2001~2023 Altibase Corp. All Rights Reserved.<br>
 This manual contains proprietary information of Altibase® Corporation; it is provided under a license agreement containing restrictions on use and disclosure and is also protected by copyright patent and other intellectual property law. Reverse engineering of the
 software is prohibited.<br>
@@ -27,7 +27,7 @@ Homepage                : <a href='http://www.altibase.com'>http://www.altibase.
 <br>
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: General Reference-1.Data Types & Altibase Properties
    :glob:
 
