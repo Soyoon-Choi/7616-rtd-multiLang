@@ -22,4 +22,4 @@ Copyright ⓒ 2001~2023 Altibase Corp. All Rights Reserved.<br>
    :caption: Getting Started Guide
    :glob:
 
-   Getting Started Guide/*
+   *
