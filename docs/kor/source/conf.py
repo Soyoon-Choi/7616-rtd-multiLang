@@ -87,3 +87,5 @@ html_favicon = 'faviconV2.ico'
 html_build_dir = os.environ.get('READTHEDOCS_OUTPUT', 'docs/kor/build/html')
 
 suppress_warnings = ["myst.header"]
+
+latex_engine = "xelatex"
