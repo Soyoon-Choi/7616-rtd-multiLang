@@ -27,7 +27,7 @@ Homepage                : <a href='http://www.altibase.com'>http://www.altibase.
 <br>
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: General Reference-1.Data Types & Altibase Properties
    :glob:
 

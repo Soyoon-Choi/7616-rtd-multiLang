@@ -1,3 +1,7 @@
-Recent
-======
-Can I make this in folder format or whatever more easy to read?
+.. toctree::
+   :maxdepth: 1
+   :caption: Recent Updates
+   :glob:
+   
+   Patch Notes/*
+   Release Notes/*

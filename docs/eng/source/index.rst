@@ -3,16 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Simple Altibase Manual Homepage Protytype for 7.3 English
+Simple Altibase Manual Homepage Protytype for 7.1 English
 ==============================================================
 
 Welcome!
-This website provides docs for Altibase 7.3.
+This website provides docs for Altibase 7.1.
 
 Altibase Support Portal: http://support.altibase.com/en/
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :hidden:
    :caption: User's Guide
 
@@ -26,10 +26,10 @@ Altibase Support Portal: http://support.altibase.com/en/
    :hidden:
    :caption: Developer's Guide
 
-   API User's Manual </dev/API User's Manual>
+   API User's Manual </dev/API User's Manual/Application-Program-Interface-Users-Manual>
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :hidden:
    :caption: Recent Updates
 

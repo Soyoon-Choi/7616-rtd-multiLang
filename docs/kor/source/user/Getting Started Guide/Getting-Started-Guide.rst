@@ -1,11 +1,11 @@
 # Getting Started Guide
 
-#### Altibase 7.3
+#### Altibase 7.1
 
 Altibase® Administration
 
 Altibase Administration Getting Started Guide
-Release 7.3
+Release 7.1
 Copyright ⓒ 2001~2023 Altibase Corp. All Rights Reserved.<br>
 본 문서의 저작권은 ㈜알티베이스에 있습니다. 이 문서에 대하여 당사의 동의없이 무단으로 복제 또는 전용할 수 없습니다.<br>
 <b>㈜알티베이스</b>
@@ -17,8 +17,7 @@ Copyright ⓒ 2001~2023 Altibase Corp. All Rights Reserved.<br>
 
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
+   :maxdepth: 4
    :caption: Getting Started Guide
    :glob:
 
