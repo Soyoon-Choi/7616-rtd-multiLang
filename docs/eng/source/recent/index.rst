@@ -1,7 +1,16 @@
+Recent Updates index
+==========================
+
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Recent Updates
-   :glob:
-   
+
    Patch Notes/*
-   Release Notes/*
+   Relese Notes/*
+
+Recent News
+
+Go to
+   :doc:`Patch Notes/index`
+Go to
+   :doc:`Relese Notes/index`
