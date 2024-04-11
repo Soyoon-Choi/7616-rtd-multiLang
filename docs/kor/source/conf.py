@@ -94,6 +94,7 @@ latex_elements = {
 \setmainfont{DejaVu Serif}
 \setsansfont{DejaVu Sans}
 \setmonofont{DejaVu Sans Mono}
+\usepackage{kotex}
 ''',
     'preamble': r'''
 \usepackage[titles]{tocloft}

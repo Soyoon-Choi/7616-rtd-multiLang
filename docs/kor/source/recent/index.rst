@@ -11,5 +11,7 @@ Recent Updates index
 
 최근 업데이트
 
-:doc: Patch Notes/index.rst
-:doc: Relese Notes/index.rst
+패치노트 바로 가기
+   :doc:`Patch Notes/index.rst`
+릴리즈 노트 바로 가기
+   :doc:`Relese Notes/index.rst`

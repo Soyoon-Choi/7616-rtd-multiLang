@@ -43,7 +43,10 @@
 
 
 User's Guide
-    Go to :doc:`User's Guide </user/index>`.
+    Go to :doc:`User's Guide </user/index>`
 
 Developer's Guide
-    Go to :doc:`Developer's Guide </dev/index>`.
+    Go to :doc:`Developer's Guide </dev/index>`
+
+최근 업데이트
+    Go to :doc:`Recent Updates</recent/index>`

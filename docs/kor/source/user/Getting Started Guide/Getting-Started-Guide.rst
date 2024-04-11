@@ -1,4 +1,5 @@
-# Getting Started Guide
+Getting Started Guide
+========================
 
 #### Altibase 7.1
 
@@ -17,7 +18,7 @@ Copyright ⓒ 2001~2023 Altibase Corp. All Rights Reserved.<br>
 
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 3
    :caption: Getting Started Guide
    :glob:
 

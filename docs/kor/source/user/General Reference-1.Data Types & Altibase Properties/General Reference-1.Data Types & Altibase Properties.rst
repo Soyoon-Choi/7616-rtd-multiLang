@@ -2,7 +2,7 @@ General Reference-1.Data Types & Altibase Properties
 ================
 
 .. toctree::
-    :maxdepth: 4
+    :maxdepth: 3
     :caption: General Reference 1
     :glob:
 
